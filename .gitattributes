@@ -1,0 +1,2 @@
+# Keep documentation line endings consistent across operating systems and editors.
+docs/**/*.md text eol=lf
